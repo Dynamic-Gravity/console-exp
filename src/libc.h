@@ -1,0 +1,5 @@
+#ifndef __LIBC_H__
+#define __LIBC_H__
+#include <iostream>
+//classes go here.
+#endif
